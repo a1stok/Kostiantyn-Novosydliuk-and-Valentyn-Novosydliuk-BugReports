@@ -7,14 +7,23 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## New Software feature
+**Introduce the proposed feature.**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Where and when it is useful
+**Contextual describe the scenarios where the feature will be beneficial.**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Possible design changes
+**Talk about potential alterations required in the software's design or architecture.**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Constraints and Assumptions
+**Call out any constraint and/or assumption relevant for the development and use of this feature.**
+
+## Tests
+**Explain the testing approach for the feature.**
+
+## Code
+**Provide a relevant code snippets or references.**
+
+## Overall impact
+**Broadly explain the feature's implications and benefits.**
